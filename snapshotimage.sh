@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Instance settings
-instanceId="i-f9a2f62e"
+instanceId="i-c5372628"
 imageDescription="sefaira.com-production"
 today=`date +"%M-%H-%d-%b-%Y"`
 logfile="/var/log/aws-autoscaling-image-update.log"
